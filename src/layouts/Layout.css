@@ -1,0 +1,33 @@
+@import 'variables.css';
+
+body {
+  background: var(--backgroundColor);
+}
+
+#___gatsby {
+  width: var(--pageWidth);
+  margin: 30px auto;
+  position: relative;
+}
+
+.home-link {
+  text-decoration: none;
+
+  &:hover h3 {
+    color: var(--colorRed);
+  }
+}
+
+a {
+  text-decoration: none;
+  transition: 0.3s color;
+}
+a:hover {
+  color: #000;
+}
+
+.masthead {
+  border-bottom: 1px solid var(--colorDivider);
+  margin-bottom: 50px;
+  padding-bottom: 10px;
+}

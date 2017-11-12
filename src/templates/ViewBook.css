@@ -1,0 +1,54 @@
+@import '../layouts/variables.css';
+
+.author {
+  color: var(--colorMuted);
+}
+
+.controls {
+  justify-content: space-between;
+  display: flex;
+  border-top: 1px solid var(--colorDivider);
+  border-bottom: 1px solid var(--colorDivider);
+  margin: 0 0 20px 0;
+  padding: 10px 0;
+}
+
+.controls-right  button {
+  margin-left: 5px;
+}
+
+.page-count {
+  align-self: center;
+  margin: 0;
+}
+
+.book-headline {
+  display: flex;
+}
+
+.download-link {
+  margin: 15px 0 0 10px;
+}
+
+.book-view.fullscreen {
+  width: var(--pageWidth);
+  position: absolute;
+  top: 0; 
+  background: var(--backgroundColor);
+}
+
+button {
+  background: #fff;
+  border: 1px solid var(--colorRed);
+  border-radius: 3px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+canvas {
+  max-width: var(--pageWidth);
+  margin: 0 auto;
+  display: block;
+  cursor: pointer;
+  box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.1);
+}
