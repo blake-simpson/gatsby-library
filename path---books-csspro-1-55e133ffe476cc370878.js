@@ -1,0 +1,2 @@
+webpackJsonp([9],{382:function(a,o){a.exports={data:{book:{id:"/Users/blake/code/personal/gastby-library/src/pages/books/csspro1.pdf absPath of file [624b9c9ecf6b1a2b44617a36f61b7d31] >>> pdf",title:"CSS Master",author:"Tiffany B. Brown",pageCount:"383",downloadPath:"../../pdf/csspro1.pdf",fingerprint:"624b9c9ecf6b1a2b44617a36f61b7d31"}},pathContext:{path:"/books/csspro1/"}}}});
+//# sourceMappingURL=path---books-csspro-1-55e133ffe476cc370878.js.map
