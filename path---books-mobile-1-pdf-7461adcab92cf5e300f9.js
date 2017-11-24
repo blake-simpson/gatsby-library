@@ -1,0 +1,2 @@
+webpackJsonp([8],{383:function(a,e){a.exports={data:{book:{id:"/Users/blake/code/personal/gastby-library/src/pages/books/mobile1pdf.pdf absPath of file [97a4964cdada3132bba97c7d713f68e4] >>> pdf",title:"Build Mobile Websites and Apps for Smart Devices",author:"Earle Castledine",pageCount:"280",downloadPath:"/pdf/mobile1pdf.pdf",fingerprint:"97a4964cdada3132bba97c7d713f68e4"}},pathContext:{path:"/books/mobile1pdf/"}}}});
+//# sourceMappingURL=path---books-mobile-1-pdf-7461adcab92cf5e300f9.js.map
